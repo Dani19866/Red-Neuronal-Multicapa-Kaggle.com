@@ -78,7 +78,7 @@ El objetivo de rendimiento principal **no se cumplió** por un margen del **3%**
 
 ### 4.1. Reporte de Clasificación
 
-### REPORTE DE CLASIFICACION
+#### REPORTE DE CLASIFICACION
 
 | Clase       | Precision | Recall | F1-Score | Support |
 |-------------|-----------|--------|----------|---------|
