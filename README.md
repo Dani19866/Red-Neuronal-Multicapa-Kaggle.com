@@ -3,7 +3,7 @@
 Proyecto de Computación Emergente (FPTSP25) para la Universidad Metropolitana.
 
 * **Estudiantes:** Eduardo Curiel, Daniel De Oliveira, Vincent Perez
-* **Notebook de Kaggle:** 💻 `[Notebook en Kaggle](https://www.kaggle.com/code/danieldeoliveira00/vincent-eduardo-daniel-proyecto-c-emergente)`
+* **Notebook de Kaggle:** 💻 [Notebook en Kaggle](https://www.kaggle.com/code/danieldeoliveira00/vincent-eduardo-daniel-proyecto-c-emergente)
 * **Informe:** 📄 `[No listo]`
 
 ---
